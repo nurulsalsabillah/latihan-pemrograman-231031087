@@ -1,9 +1,9 @@
-# Tugas-Pemrograman-231031068
+# Latihan-Pemrograman-231031068
 <div> Nama : Nurul Salsabillah </div>
 <div> Nim : 231031087 </div>
 <div> Prodi : Sistem Informasi C </div>
 
-* Tugas 1 : Program Kelipatan 4 231031087-Nurul Salsabillah-tugas-9-c  
-* Tugas 2 : Tuppel 231031087-Nurul Salsabillah-tugas1-10c
-* Tugas 3 : program Penjumlahan Waktu 231031087-Nurul Salsabillah-tugas21-10c
-* Tugas 4 : program Selisi Waktu 231031087-Nurul Salsabillah-tugas-22-10c
+* Latihan 1 : 231031087-Nurul Salsabillah-latihan1.py
+* Latihan 2 : 231031087-Nurul Salsabillah-latihan2.py
+* Latihan 3 : 231031087-Nurul Salsabillah-latihan3.py
+* Latihan 4 : 231031087-Nurul Salsabillah-latihan4.py
